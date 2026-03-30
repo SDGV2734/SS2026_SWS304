@@ -6,7 +6,6 @@
 
 #### **Student ID:** 02230299
 
-#### **Course/Unit:** DBS302
 
 ## 1. Aim
 
